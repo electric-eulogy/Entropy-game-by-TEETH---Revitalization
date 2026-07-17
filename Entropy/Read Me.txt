@@ -1,0 +1,14 @@
+Note from Cesare: The version of this file I found was was corrupted, but here is the text that could still be read: 
+------------------
+
+-Yanfly Engine Ace- Parallax Lock
+-modern algebra's [VXA] Extra Movement Frames 1.0.1 
+-GaryCXJk Free Movement Script
+-Fixed Pictures Credit: Seer UK
+-JV Master Script List Skip Title Screen
+-DoctorTodd Add Options to Game Over
+
+
+rainbowoni/La Quade
+Andi
+Comic

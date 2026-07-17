@@ -1,0 +1,31 @@
+ENTROPY
+Created by TEETH
+---
+
+The trigger warnings for this game are as follows:
+
+- Existentialism and surrealism
+- Blood and gore
+- Death
+- Harsh language
+---
+Translated from Russian to English by Cesare (With the help of DireGaming's YouTube video) and Xydo
+Code fixed and images updated by Cesare
+Recreated images by Cesare, based on images found in DireGaming's YouTube video.
+---
+Game Engine: RPG Maker VX Ace
+Files include RTP Data
+---
+
+Credits:
+- TEETH
+	- Link to Tumblr account: https://candyballad.tumblr.com/
+	- Link to rpgmaker.net profile: https://rpgmaker.net/users/TEETH/
+
+- DireGaming
+	- Link to channel: https://www.youtube.com/@diregaming8057
+	- Link to video: https://youtu.be/xnCMHJ8QLCM
+
+--------------
+
+- Rebuild by Cesare - Electric Eulogy

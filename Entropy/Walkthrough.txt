@@ -1,0 +1,81 @@
+Note from Cesare: The version of this file I found was was corrupted, so I removed it to replace it with this rough version.
+------------------
+
+CONTROLS:
+Arrow keys to move
+Shift to run
+Enter to select
+ESC for menu
+
+WALKTHROUGH:
+>> AS NONEC <<
+- Examine the picture on the wall in the top right corner.
+- Go to the "computer" (it looks like an eye) on the wall in the center on the left, and interact with it.
+- Interact with the boxes on the screen as follows (Note that you don't have to repeat ones that you have already clicked): Milk, Eyes, Tar, Brain, Sugar, Wire, Flour, Rabbit Foot.
+
+>> AS BREAD <<
+- Walk up to the pink rabbit on the stairs and talk to them.
+- Collect Painting Five from behind the throne.
+- Go to the double doors below the stairs and enter the kitchen.
+- Go up to the teapot in the fireplace next to the ladder and interact with it for Painting Six.
+- Go to the door at the back of the room and enter the closet.
+- Interact with the table by the right wall to get Painting One.
+- Go back to the main room of the castle.
+- Go up the stairs to the double doors and enter the hallway.
+- Enter the double doors to the room where the bunnies are cleaning.
+- To navigate the slippery floor to the Royal Spear, do as follows:
+	- Go to the right to hit the far crate.
+	- Go up to hit the wall.
+	- Go right to hit the crumpled rug.
+	- Go down to hit the top of the crate you hit before.
+	- Go left to hit the second crumpled rug.
+	- Go up to hit the table.
+	- Go left to hit the crate.
+	- Go up and grab the spear.
+Now that you have been kicked out of the room (there is no need to navigate out; the game loads you back into the hallway automatically) interact with the dark table with the vanity mirror above it to get Painting Two.
+- Go back to the main room and go to the left to leave.
+- Go to the gate on the right to get to the maze.
+- Go left and into the tent.
+- Tell the rabbit that you will help with the mushroom problem. The mushrooms change the color of themselves and/or the ones around them. Don't worry about the mushroom to the right of the rabbit. To solve the puzzle, do as follows:
+	- Interact with the second closest mushroom left to the white rabbit.
+	- Interact with the second closest mushroom right of the rabbit.
+	- Interact with the third closest mushroom to the right of the rabbit.
+	- Interact with the mushroom straight across from the rabbit.
+	- Interact with the third closest mushroom to the left of the rabbit.
+
+>> AS NONEC <<
+- From the starting point in the dream, head straight down and interact with the first door (not the one closest to your right, initially).
+- Head to the right and interact with the door that's closest to the right and below you.
+- Head all the way to the left, and you'll find some doors shaped in an arrow facing left (<), interact with the middle door.
+- For the questions Nonec asks, answer the following (The last question doesn't matter): DISORDER, OUR SINS, A BASTARDS WOE, CONSCIOUSNESS
+- Go over to the shower faucet (the big, bendy purple thing) and interact with it. 
+
+>> AS BREAD <<
+- Go into the maze and head up, taking the second left.
+- Go up and take the right to wrap around to where a bunny is sleeping.
+- Interact with the sleeping bunny to get Painting Three.
+- Go to the beginning of the maze and take the first right. Follow that road to reach your friend.
+- Go back to the castle kitchen (where you found Painting One).
+- Go up the ladder to the green-colored pig and interact with it. You will get Painting Four from this interaction.
+Select the long skinny knife from the top menu, wave the cursor over the dashed line, and press enter occasionally.
+- Select the wire hanger.
+- Select the towel and wave the cursor over the areas with the pink arrows; also, press enter around the spots a few times.
+- Select the long skinny knife.
+- Bring the cursor over the intestines a few times (where the pink arrows are) to clear it, and press enter a few times.
+- Select the saw, go down the area with the pink arrows, and press enter as you go.
+- Select the towel and press enter over the heart.
+- press enter where both the pink arrows are pointing over the lungs.
+- Select the cleaver and press enter rapidly while moving the cursor over the dashed line.
+- Head out to the main room and up the stairs.
+- Head up the stairs, back to the room the bunnies were cleaning.
+- Light all the candles. If there are issues, exit the room and enter it again.
+- Go to the chest in the closest right corner of the room and interact with it for the Hiding Hole Key.
+- Go up the stairs for an interaction where Bread will sell out the mushroom bunny.
+Go up the stairs again and down the trap door. There, you can see a rabbit slumped over. This will initiate a cut scene.
+- Go up the ladders and to the roof for another cut scene.
+- Interact with the trap door in the corner to go back into the castle.
+- Head into the main room of the castle and stop by the little pink bunny on the stairs to give them the paintings.
+- Head outside.
+- Talk to the big pink bunny with the amputated ear and big eyebrows.
+- Go left to go into the forest.
+- Continue left until you reach a little round clearing and a cutscene is triggered.

@@ -1,0 +1,132 @@
+Russian to English Translations (Literal) by Cesare
+
+FROM Tools > Database
+	----
+"Actors" (Characters):
+- Нетше > Nonec
+- Хлеб > Bread
+
+Items:
+- Ножницы > Scissors
+- Ядовитый гриб > Poisonous Mushroom
+	- Item Description: Я не должна есть это. > I shouldn't eat this.
+- Королевский ключ > Royal Key
+	- Item Description: Ключ от владений замка. > Key to the castle's possessions. | Key to the castle's domain. (?)
+- Королевское копьё > Royal Spear
+	- Item Description: Блестящее и заострённое. > Shiny and pointed.
+- Первая краска > First Paint
+- Вторая краска > Second Paint
+- Третья краска > Third Paint
+- Четвёртая краска > Fourth Paint
+- Любимые ножницы > Favorite Scissors
+
+FROM Tools > Script Editor
+	----
+"ask to save" (Save window options):
+- Тут уже присутствует файл сохранения. Перезаписать? > There is already a save file here. Overwrite?
+- Перезаписать > Overwrite
+- Отмена > Cancel
+
+"gmae over options" (Game over options):
+- Загрузить > Download (?)
+- На главную > Back to title.
+- Выход > Exit
+
+"Vocab" (Save/Load Screen):
+- В какой слот сохранить? > Which slot should I save to?
+- Из какого слота загрузить? > Which slot should I load from?
+
+FROM Mode > Event
+	----
+Map: house 2
+EV012
+- Обои отклеваются... > The wallpaper is peeling off...
+
+EV039
+- Хлеб сказала мне поесть. > Bread told me to eat.
+
+EV046 / 2
+- Я сегодня достаточно посидела за компьютером. > I spent enough time at the computer.
+
+Map: bunny interior
+EV025 | EV031 | EV032 / 2
+- Пожалуйста, помоги мне найти краски! > Please help me find the paintings!
+- Мне ещё надо сходить в Секретную нору. > I still need to go to the Secret Hole.
+/ 3
+- Пойду побью моих друзей. > I'll go beat up my friends.
+
+EV036 | EV034 | EV035 | EV037 | EV038 | EV039
+- Тут меня никто не сможет увидеть! > Here, no one can see me!
+
+EV022 | 
+- Трон Королевы Кроликов. > Throne of the Rabbit Queen.
+- Это я виноградный джем на сиденье вижу? > Am I seeing grape jam on the seat?
+
+Map: closet
+EV006 / 2
+- Тут больше нет ничего стоящего. > There's nothing worthwhile here anymore.
+
+EV012
+- Интересно, что там. > I wonder what's there.
+- Заглянуть внутрь? > Look inside?
+- Вторгнуться > Intrude
+- Нет, это грубо > No, that's rude
+- Ты быстро закрываешь коробку и надеешься, что никогда не увидишь эту штуку снова. > I quickly close the box and hope that I will never see this thing again.
+- Я хороший человек. > I am a good person.
+
+Map: hallway
+EV007 / 2
+- Стой! Мы были посланы сюда, чтобы убедиться, что ни один кролик не вмешается в процесс уборки. Пожалуйста, возвращайся позже. > Stop! We were sent here to make sure that not a single rabbit will interfere with the cleaning process. Please come back later.
+- (Ничего не поделаешь, думаю, это из-за меня.) > (It can't be helped, I think it's because of me.)
+
+Map: outside
+EV018 / 1
+Option one: Adventure
+- Лес - это прекрасно! Пусть дети побудут детьми? > The forest is wonderful! Let children be children?
+- Ребёнок - это еда для монстров. > A child is food for monsters.
+- Я... просто хочу вернуть моего ребёнка. > I... I just want my baby back.
+/ 2
+- Оставь меня одного... Мне.... не совсем хорошо. > Leave me alone... I.. don't feel very good.
+
+EV009 / 2
+- У меня сейчас нет причин покидать территорию замка. > I have no reason to leave the castle grounds now.
+/ 3
+- Хотелось бы мне уйти, но я ещё не нашла все краски. > I wish I could leave, but I haven't found all the paintings yet.
+- Пропущена Четвёртая краска > Missed Fourth Painting
+- Пропущена Вторая краска > Missed Second Painting
+- Пропущена Третья краска > Missed Third Painting
+- Пропущена Первая краска > Missed First Painting
+- Пропущена Пятая краска > Missed Fifth Painting
+- Пропущена Шестая краска > Missed Sixth Painting
+
+Map: maze
+EV014 / 1
+- Нет, я довольно занятая девушка, бабуля. > No, I'm a pretty busy girl, Grandma.
+- Какая жалость! А теперь слушай. > What a pity! Now listen.
+/ 2
+- Боюсь, больше не могу придумать никаких кроламбуров. > I'm afraid I can't think of anymore bun puns.
+- Интересно, есть ли теперь в моей жизни смысл... > I wonder if my life has meaning now...
+- Я знаю, что на самом деле никому не нравится слушать таких старых кроликов как я. Просто сейчас я так одинока. > I know that no one really likes to listen to old rabbits like me. I'm just so lonely now.
+- Возможно, мне пора умереть. > Perhaps it's time for me to die.
+- Пожалуйста, заткнись. > Please shut up.
+
+EV029
+- У меня нет причин возвращаться туда. > I have no reason to go back there.
+
+EV031
+- У меня есть ещё немного времени до встречи с другом. > I still have a little time before meeting my friend.
+
+Map: tent
+- Я хочу чёртовы грибы. > I want the damn mushrooms.
+- Зачем ты делаешь это? > Why are you doing this?
+
+Map: room2
+- Сначала мне нужно зажечь эти свечи. > First, I need to light these candles.
+EV016 / 1
+- Заперто. > Locked.
+/ 2
+- Использован Ключ от секретной норы. > Used Secret Hole Key.
+EV020
+- Сначала мне нужно кое-что сделать. > I need to do something first.
+EV026 / 1
+- Я недостаточно хорошо себя чувствую, чтобы сейчас идти к остальным. >  I don't feel well enough see others right now.
